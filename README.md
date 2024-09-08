@@ -1,6 +1,6 @@
 ### 🚀 **About Me**
 
-- **🔭 I’m currently working on:** Solana Web3 Bot
+- **🔭 I’m currently working on:** University Recommendation System using ML
 - **🌱 I’m currently learning:** [ML Foundations @ UCLA]([https://www.example.com](https://ecornell.cornell.edu/courses/technology/machine-learning-foundations/))
 - **💬 Ask me anything on my socials.**
 - **⚡ Fun fact:** I love noodles!
