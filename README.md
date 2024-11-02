@@ -1,6 +1,6 @@
 <hr>
 
-# 🚀 **About Me**
+<h1>🚀 About Me</h1> 
 
 - **🔭 I’m currently working on:** University Recommendation System using ML | My Website | OpenSource Dev Project @ [CSES](https://csesucsd.com/)
 - **🌱 I’m currently learning:** [The MERN Stack @ ACM](https://hack.acmucsd.com/) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
