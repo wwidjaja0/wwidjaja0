@@ -43,10 +43,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwidjaja0&show_icons=true&hide_border=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwidjaja0&layout=compact&hide_border=true&theme=radical)
 
 ---
-
-# 📫 **Connect with Me**
-
-- **Website:** [My Site](https://www.wwidjaja.site/)
-- **Linkedin:** [Connect with me!](https://www.linkedin.com/in/wwidjaja0/)
-
----
