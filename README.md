@@ -53,10 +53,3 @@
 - **Website:** [Coming Soon!]()
 
 ---
-
-### 🌟 **Support My Work**
-
-If you like my work, feel free to:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=for-the-badge)](https://buymeacoffee.com/jjcooks)
-[![Sponsor Me](https://img.shields.io/badge/-Sponsor%20Me-EA4AAA?logo=github-sponsors&logoColor=white&style=for-the-badge)](https://github.com/sponsors/jj-cooks)
