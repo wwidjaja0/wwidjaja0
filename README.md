@@ -45,9 +45,7 @@
 
 # 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwidjaja0&show_icons=true&hide_border=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwidjaja0&layout=compact&hide_border=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwidjaja0&show_icons=true&hide_border=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwidjaja0&layout=compact&hide_border=true&theme=radical)
 
 ---
 
