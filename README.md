@@ -1,15 +1,11 @@
-<hr>
-
-<h1>🚀 About Me</h1> 
+<h3>🚀 About Me</h3> 
 
 - **🔭 I’m currently working on:** University Recommendation System using ML | My Website | OpenSource Dev Project @ [CSES](https://csesucsd.com/)
 - **🌱 I’m currently learning:** [The MERN Stack @ ACM](https://hack.acmucsd.com/) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
 - **💬 Ask me anything on my socials.**
 - **⚡ Fun fact:** I'm from the same city as the ball brothers.
 
----
-
-# 🛠️ **Tech Stack**
+### 🛠️ **Tech Stack**
 [comment]: **Backend**
 [comment]: **Databases**
 [comment]: **DevOps&Cloud**
@@ -35,11 +31,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 
-
----
-
-# 📈 **GitHub Stats**
+### 📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwidjaja0&show_icons=true&hide_border=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwidjaja0&layout=compact&hide_border=true&theme=radical)
-
----
