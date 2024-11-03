@@ -1,7 +1,7 @@
 <h3>🚀 About Me</h3> 
 
 - **🔭 I’m currently working on:** University Recommendation System using ML | My Website | OpenSource Dev Project @ [CSES](https://csesucsd.com/)
-- **🌱 I’m currently learning:** [The MERN Stack @ ACM](https://hack.acmucsd.com/) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
+- **🌱 I’m currently learning:** The MERN Stack @ [ACM](https://hack.acmucsd.com/) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
 - **💬 Ask me anything on my socials.**
 - **⚡ Fun fact:** I'm from the same city as the ball brothers.
 
