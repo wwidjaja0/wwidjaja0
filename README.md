@@ -1,8 +1,14 @@
 <h3>🚀 About Me</h3> 
 
-- **🔭 I’m currently working on:** My Website | [OpenSource Dev Project](https://github.com/CSES-Open-Source/Opportune) @ [CSES](https://csesucsd.com/) | E/Acc Dev and Research Project @ [CSES](https://csesucsd.com/)
+- **🔭 I’m currently working on:**
+  - My Website
+  - [OpenSource Dev Project](https://github.com/CSES-Open-Source/Opportune) @ [CSES](https://csesucsd.com/)
+  - E/Acc Dev and Research Project @ [CSES](https://csesucsd.com/)
 - **🌱 I’m currently learning:** Frontend: [figma](https://youtu.be/HZuk6Wkx_Eg?si=BgzWnRiBATb9dqTB) | [framer motion](https://youtu.be/znbCa4Rr054?si=MkFfPyfBK1JK4wCS) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
-- **💬 Reach out to me on:** [my website](https://www.wwidjaja.site/) (WIP) | [my linkedin](https://www.linkedin.com/in/wwidjaja0/) | [email me](mailto:wwidjaja0@gmail.com)
+- **💬 Reach out to me on:**
+  - [my website](https://www.wwidjaja.site/) (WIP)
+  - [my linkedin](https://www.linkedin.com/in/wwidjaja0/)
+  - reach out if you need my email
 - **⚡ Fun fact:** I can whistle while breathing in.
 
 [Saciva University Recommendation System (Break Through Tech AI Program)](https://github.com/saciva-team-2b/Saciva-University-Recommendation-System-2B): Check out my team's project repository for the real-world ML project we worked on for Saciva for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio.
