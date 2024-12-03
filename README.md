@@ -1,9 +1,13 @@
 <h3>🚀 About Me</h3> 
 
-- **🔭 I’m currently working on:** University Recommendation System using ML | My Website | OpenSource Dev Project @ [CSES](https://csesucsd.com/)
-- **🌱 I’m currently learning:** The MERN Stack @ [ACM](https://hack.acmucsd.com/) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
-- **💬 Ask me anything on my socials.**
-- **⚡ Fun fact:** I'm from the same city as the ball brothers.
+- **🔭 I’m currently working on:** My Website | [OpenSource Dev Project](https://github.com/CSES-Open-Source/Opportune) @ [CSES](https://csesucsd.com/) | E/Acc Dev and Research Project @ [CSES](https://csesucsd.com/)
+- **🌱 I’m currently learning:** Frontend: [figma](https://youtu.be/HZuk6Wkx_Eg?si=BgzWnRiBATb9dqTB) | [framer motion](https://youtu.be/znbCa4Rr054?si=MkFfPyfBK1JK4wCS) | [three.js](https://youtu.be/kt0FrkQgw8w?si=4B7_emR-ZELqKGxm)
+- **💬 Reach out to me on:** [my website!](https://www.wwidjaja.site/) (coming soon)
+- **⚡ Fun fact:** I can whistle breathing in.
+
+[Saciva University Recommendation System (Break Through Tech AI Program)](https://github.com/saciva-team-2b/Saciva-University-Recommendation-System-2B): Check out my team's project repository for the real-world ML project we worked on for Saciva for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio.
+
+[Open Source Project - Opportune](https://github.com/CSES-Open-Source/Opportune) - Check out a social platform I'm working on with a team which aims to connect UC San Diego students and alumni to support their job search, and also provide internship trackings and analytics.
 
 ### 🛠️ **Tech Stack**
 [comment]: **Backend**
