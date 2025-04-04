@@ -7,7 +7,6 @@
 - **💬 Reach out to me on:**
   - [my website](https://www.wwidjaja.site/) (WIP)
   - [my linkedin](https://www.linkedin.com/in/wwidjaja0/)
-  - reach out if you need my email
 - **⚡ Fun fact:** I can whistle while breathing in.
 
 [Open Source Project - Opportune](https://github.com/CSES-Open-Source/Opportune) - Check out a social platform I'm working on with a team which aims to connect UC San Diego students and alumni to support their job search, and also provide internship trackings and analytics.
