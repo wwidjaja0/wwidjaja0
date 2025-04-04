@@ -1,7 +1,7 @@
 <h2>🚀 About Me</h2> 
 
 <details>
-  <summary>🔭 I always love to do things. And I've always wanted to be doing something to be the best version of myself. Leave no regrets behind. 
+  <summary>🔭 I always love to do things. And I always want to be doing something to be the best version of myself. Leave no regrets behind. 
     <p><em>More info.</em></p>
   </summary>
   I'm currently working on:
