@@ -1,7 +1,9 @@
 <h2>🚀 About Me</h2> 
 
 <details>
-  <summary>🔭 I always love to do things. And I've always wanted to be doing something to be the best version of myself. Leave no regrets behind. <u>More info.</u></summary>
+  <summary>🔭 I always love to do things. And I've always wanted to be doing something to be the best version of myself. Leave no regrets behind. 
+    <p><em>More info.</em></p>
+  </summary>
   I'm currently working on:
   <ul>
     <li><a href="https://github.com/CSES-Open-Source/Opportune/" target="_blank">OpenSource Dev Project</a> @ <a href="https://csesucsd.com/" target="_blank">CSES</a> - Check out a social platform I'm working on with a team which aims to connect UC San Diego students and alumni to support their job search, and also provide internship trackings and analytics.</li>
@@ -12,7 +14,9 @@
 </details>
 
 <details>
-  <summary>🌱 I’m currently studying @ UCSD. Learning is a continous process in every aspect of my life. But I also know what brings me purpose. <u>More info.</u></summary>
+  <summary>🌱 I’m currently studying @ UCSD. Learning is a continous process in every aspect of my life. But I also know what brings me purpose.
+    <p><em>More info.</em></p>
+  </summary>
   <ul>
     <li><a href="https://cse.ucsd.edu/undergraduate/cse-190-topics-computer-science-and-engineering-2024-2025#:~:text=CSE%20190%20B00%3A%C2%A0Working%20with%20Large%20Code%20Bases%C2%A0with%20Gerald%20Soosai%20Raj" target="_blank">CSE 190 - Working with Large Codebases</li>
     <li><a href="https://catalog.ucsd.edu/courses/CSE.html#:~:text=CSE%20110.%20Software%20Engineering%20(4)" target="_blank">CSE 110 - Software Engineering</li>
