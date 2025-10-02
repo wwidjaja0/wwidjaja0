@@ -1,32 +1,16 @@
 <h2>🚀 About Me</h2> 
 
-<details>
-  <summary>🔭 I always love to do things. And I always want to be doing something to be the best version of myself. Leave no regrets behind. 
-    <p><em>More info.</em></p>
-  </summary>
-  I'm currently working on:
-  <ul>
-    <li><a href="https://github.com/CSES-Open-Source/Opportune/" target="_blank">OpenSource Dev Project</a> @ <a href="https://csesucsd.com/" target="_blank">CSES</a> - Check out a social platform I'm working on with a team which aims to connect UC San Diego students and alumni to support their job search, and also provide internship trackings and analytics.</li>
-    <li>Applying for internships...</li>
-    <li><a href="https://www.wwidjaja.site/" target="_blank">My website.</a></li>
-    <li><a href="https://www.linkedin.com/in/wwidjaja0/" target="_blank">My linkedin.</a></li>
-  </ul>
-</details>
+**⚡ Check out my website to learn more about me:** [wwidjaja.com](https://wwidjaja.com)
 
-<details>
-  <summary>🌱 I’m currently studying @ UCSD. Learning is a continous process in every aspect of my life. But I also know what brings me purpose.
-    <p><em>More info.</em></p>
-  </summary>
-  <ul>
-    <li><a href="https://cse.ucsd.edu/undergraduate/cse-190-topics-computer-science-and-engineering-2024-2025#:~:text=CSE%20190%20B00%3A%C2%A0Working%20with%20Large%20Code%20Bases%C2%A0with%20Gerald%20Soosai%20Raj" target="_blank">CSE 190 - Working with Large Codebases</li>
-    <li><a href="https://catalog.ucsd.edu/courses/CSE.html#:~:text=CSE%20110.%20Software%20Engineering%20(4)" target="_blank">CSE 110 - Software Engineering</li>
-    <li><a href="https://catalog.ucsd.edu/courses/CSE.html#:~:text=CSE%20130.%20Programming%20Languages%3A%20Principles%20and%20Paradigms" target="_blank">CSE 130 - Programming Languages: Principles and Paradigms</li>
-    <li><a href="https://catalog.ucsd.edu/courses/MATH.html#:~:text=MATH%20183.%20Statistical%20Methods" target="_blank">MATH 183 - Statistical Methods</li>
-    <li><a href="https://catalog.ucsd.edu/courses/COGS.html#:~:text=COGS%20108.%20Data%20Science%20in%20Practice%20(4))" target="_blank">COGS 108 - Data Science in Practice</li>
-  </ul>
-</details>
+🌱 I’m a Computer Science major @ UCSD working towards my bachelors and eventually (hopefully) grad school.
 
-**⚡ Fun fact:** I can whistle while breathing in.
+I'm currently working on:
+<ul>
+  <li>Applying for internships...</li>
+  <li>CSE 120, 131, and 132A</li>
+  <li><a href="https://wwidjaja.com/" target="_blank">My website.</a></li>
+  <li>A Discord bot for the Poker Club @ UC San Diego.</li>
+</ul>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwidjaja0&show_icons=true&hide_border=true&theme=radical)
 
