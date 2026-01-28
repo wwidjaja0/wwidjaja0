@@ -7,8 +7,8 @@
 I'm currently working on:
 <ul>
   <li>Applying for internships...</li>
-  <li>CSE 120, 131, and 132A</li>
-  <li><a href="https://wwidjaja.com/" target="_blank">My website.</a></li>
+  <li>CSE 131, 151A, 152A</li>
+  <li>My internship with Altheros Capital and my Student Manager role at the UCSD Triton Box Office.</li>
   <li>A Discord bot for the Poker Club @ UC San Diego.</li>
 </ul>
 
