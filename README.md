@@ -2,7 +2,7 @@
 
 **⚡ Check out my website to learn more about me:** [wwidjaja.com](https://wwidjaja.com)
 
-🌱 I’m a Computer Science major @ UCSD working towards my bachelors and eventually (hopefully) grad school.
+🌱 I’m a Computer Science major @ UCSD working towards my bachelors.
 
 I'm currently working on:
 <ul>
