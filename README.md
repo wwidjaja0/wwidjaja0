@@ -12,8 +12,6 @@ I'm currently working on:
   <li>A Discord bot for the Poker Club @ UC San Diego.</li>
 </ul>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwidjaja0&show_icons=true&hide_border=true&theme=radical)
-
 ### 🛠️ **My Tech Stack**
 [comment]: **Backend**
 [comment]: **Databases**
